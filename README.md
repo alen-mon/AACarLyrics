@@ -1,7 +1,6 @@
 
 # My Car App Documentation
-
-[![App Logo](app-logo.png)](https://your-app-website.com)
+![App Logo](https://github.com/alen-mon/AACarLyrics/assets/63594718/aa8c7b77-5faf-4a14-9312-c4c9be618ec5)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -66,8 +65,10 @@ Stay up to date with the latest features and improvements.
 ## Contact Information
 For additional assistance, please reach out to our development team at [alenmon2002@gmail.com](mailto:alenmon2002@gmail.com).
 
-## App Screenshots and Videos(Yet to be updated)
+## App Screenshots and Videos
 Explore our app's visual features in the [Screenshots Gallery](screenshots.md) and watch our [Introduction Video](videos/introduction.mp4) for a quick overview.
+![image](https://github.com/alen-mon/AACarLyrics/assets/63594718/689f1438-6fb5-4cc9-a53e-3cccf9a7c18b)
+![image](https://github.com/alen-mon/AACarLyrics/assets/63594718/dcfdd6a9-fdb1-4767-bb66-b8980c966a5a)
 
 
 
