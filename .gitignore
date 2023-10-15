@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/AppModule/automotive/build/
+/AppModule/automotive/build/intermediates/javac/debug/classes/
+/AppModule/common/build/
+/AppModule/common/build/intermediates/javac/debug/classes/
+/AppModule/mobile/build/
