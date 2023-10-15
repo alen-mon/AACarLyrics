@@ -67,7 +67,8 @@ For additional assistance, please reach out to our development team at [alenmon2
 
 ## App Screenshots and Videos
 Explore our app's visual features in the [Screenshots Gallery](screenshots.md) and watch our [Introduction Video](videos/introduction.mp4) for a quick overview.
-![image](https://github.com/alen-mon/AACarLyrics/assets/63594718/dcfdd6a9-fdb1-4767-bb66-b8980c966a5a)
+
+![image](https://github.com/alen-mon/AACarLyrics/assets/63594718/03b09379-17ed-4a56-bc86-2fab49b26fe7)
 
 
 
